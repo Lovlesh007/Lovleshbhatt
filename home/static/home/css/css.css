@@ -219,7 +219,7 @@
     text-align: right;
     text-size-adjust: 100%;
     top: 0px;
-    width: 193.875px;
+    width: 220.875px;
     perspective-origin: 96.9375px 3px;
     transform-origin: 96.9375px 3px;
     background: rgb(44, 152, 240) none repeat scroll 0% 0% / auto padding-box border-box;
@@ -234,7 +234,7 @@
     content: '""';
     display: block;
     height: 10px;
-    left: 183.875px;
+    left: 220.875px;
     position: absolute;
     right: 0px;
     text-align: right;
@@ -749,7 +749,7 @@
     text-align: right;
     text-size-adjust: 100%;
     top: 0px;
-    width: 105.75px;
+    width: 285.75px;
     perspective-origin: 52.875px 3px;
     transform-origin: 52.875px 3px;
     background: rgb(249, 191, 63) none repeat scroll 0% 0% / auto padding-box border-box;
@@ -764,7 +764,7 @@
     content: '""';
     display: block;
     height: 10px;
-    left: 95.75px;
+    left: 280.75px;
     position: absolute;
     right: 0px;
     text-align: right;
@@ -791,7 +791,7 @@
     color: rgb(249, 191, 63);
     display: block;
     height: 14.4px;
-    left: 114.325px;
+    left: 160.325px;
     position: absolute;
     right: -32px;
     text-align: right;
