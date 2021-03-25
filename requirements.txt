@@ -11,7 +11,7 @@ openpyxl==2.6.2
 Pillow==5.4.1
 psycopg2==2.7.7
 pytz==2018.9
-PyYAML==5.1
+PyYAML==5.4
 tablib==0.13.0
 whitenoise==5.0.1
 xlrd==1.2.0
